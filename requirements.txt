@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+slowapi
+transformers
+optimum-intel[openvino, nncf]
+torch --index-url https://download.pytorch.org/whl/cpu
+sentencepiece
+python-docx
+pypdfium2
